@@ -1,0 +1,100 @@
+.footer_design {
+  position: fixed;
+  height: 50px;
+  background-color: #593196;
+  color: white;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+  z-index: 2;
+}
+
+.rounded {
+  height: 50px;
+  border-radius: 41px !important;
+  padding: 25px;
+  margin-bottom: 10px;
+}
+
+.error {
+  margin-left: 16px;
+}
+
+.btn_primary {
+  --bs-btn-color: #593196;
+  --bs-btn-border-color: #593196;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #593196;
+  --bs-btn-hover-border-color: #593196;
+  --bs-btn-focus-shadow-rgb: 89, 49, 150;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #593196;
+  --bs-btn-active-border-color: #593196;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #593196;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #593196;
+  --bs-gradient: none;
+  border-radius: 41px;
+  height: 46px;
+  width: 100%;
+}
+.save_btn {
+  --bs-btn-color: #593196;
+  --bs-btn-border-color: #593196;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #593196;
+  --bs-btn-hover-border-color: #593196;
+  --bs-btn-focus-shadow-rgb: 89, 49, 150;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #593196;
+  --bs-btn-active-border-color: #593196;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #593196;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #593196;
+  --bs-gradient: none;
+  border-radius: 41px;
+  height: 42px;
+  width: 30%;
+}
+.cancel_btn {
+  --bs-btn-color: #9f0e0e;
+  --bs-btn-border-color: #9f0e0e;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #9f0e0e;
+  --bs-btn-hover-border-color: #9f0e0e;
+  --bs-btn-focus-shadow-rgb: 89, 49, 150;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #9f0e0e;
+  --bs-btn-active-border-color: #9f0e0e;
+  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --bs-btn-disabled-color: #9f0e0e;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #9f0e0e;
+  --bs-gradient: none;
+  border-radius: 41px;
+  height: 42px;
+  width: 30%;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.button-link {
+  text-decoration: none;
+  padding: 5px 10px;
+  background: #5c1ac2;
+  color: #fff;
+  border-radius: 4px;
+  margin-right: 5px;
+}
+
+.button-delete {
+  padding: 5px 10px;
+  background: #ac2323;
+  color: #fff;
+  border-radius: 4px;
+}

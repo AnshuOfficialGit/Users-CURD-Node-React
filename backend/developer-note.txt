@@ -1,0 +1,12 @@
+After installation of node js 
+# npm init -y
+# npm i express
+# create server.js file and setup server in this file.
+# npm i nodemon -g
+# npm  i dotenv
+npm install --save sequelize
+npm install mysql2
+npm i body-parser
+npm i bcrypt
+npm i jsonwebtoken
+npm install -g sequelize-cli  This package is used to handle Seeder in nodejs 
